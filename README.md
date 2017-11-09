@@ -1,5 +1,5 @@
 # Bratify
-Bratify is a program that produces Brat-formatted class hierarchy and labels from an OWL file.
+Bratify is a program that produces [Brat](http://brat.nlplab.org)-formatted class hierarchy and labels from an OWL file.
 
 
 ## Running the program
