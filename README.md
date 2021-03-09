@@ -1,4 +1,6 @@
 # Bratify
+[![DOI](https://zenodo.org/badge/109127384.svg)](https://zenodo.org/badge/latestdoi/109127384)
+
 Bratify is a program that produces [Brat](http://brat.nlplab.org)-formatted class hierarchy and labels from an OWL file.
 
 
